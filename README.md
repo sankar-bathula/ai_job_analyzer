@@ -32,8 +32,3 @@ content = f"""
 - Gain hands-on AWS experience
 """
 
-# Create file
-with open(file_name, "w", encoding="utf-8") as f:
-    f.write(content)
-
-print(f"{file_name} created successfully!")
